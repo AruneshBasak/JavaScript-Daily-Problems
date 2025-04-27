@@ -15,3 +15,4 @@ else {
         fact *= i;
     }
     console.log(`The factorial of ${number1} is ${fact}.`);
+}
