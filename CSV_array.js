@@ -15,4 +15,4 @@ const objectToCsv = function (data) {
 
 const data =[prompt("Enter the name: "),prompt("Enter the last name:"),prompt("Enter the AGE: ")]
 const csvData = objectToCsv(data);
-console.log(csvData); 
+console.log(csvData)
