@@ -15,6 +15,6 @@ if(a !==b){
  if (name > 0){
      name - 1
 }
-console.log (name)
+console.log (name
  
  
