@@ -10,3 +10,4 @@ const b = parseInt(base1);
 const c = (1/2 * a * b);
 
 console.log(c)
+
