@@ -23,7 +23,7 @@ const myarr = [1, 2, 3, 4, false, 'string'];
 console.log("Data type is" + (typeof myarr));
 //object literals
 const stMarks = {
-    jayatu: 84,
+    arunesh: 84,
     subham: 89,
 }
 console.log("data type is " + (typeof stMarks));
