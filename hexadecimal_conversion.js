@@ -28,3 +28,4 @@ const hex = size => {
   console.log("#",hex(4));
   console.log("#",hex(7));
   console.log("#",hex(3));
+
