@@ -23,3 +23,4 @@ else if (number > 1) {
 else {
     console.log("The number is not a prime number.");
 }
+
